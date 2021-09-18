@@ -27,6 +27,6 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 ## Record of Tasks
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
-|         |                |                 |               |                        |           |
+|    1     |     Coming up with an idea for a text-based game           |     Have an idea that's simple yet fun to execute            |  2 days (weekend)             |   Monday 20th                     |     interesting and easy      |
 |         |                |                 |               |                        |           |
 |         |                |                 |               |                        |           |
