@@ -11,6 +11,8 @@ The owner of the local game shop is an enthusiast of classic computer games. He 
 2. The game must record the time played.
 3. The game must record the player name and score.
 
+
+
 Apart for this requirements, the owner is open to any type of game, topic or genre.
 
 ## Proposed Solution
@@ -24,6 +26,8 @@ I will design and make a text-based horror game for a client who is a local game
 1. The game has to be entirely text-based.
 2. The game must record the time played.
 3. The game must record the player name and score.
+4. The game controls are specified and accessible anytime while playing the game.
+5. 
 
 # Criteria B: Design
 
