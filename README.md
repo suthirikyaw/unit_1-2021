@@ -17,10 +17,13 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 
 Design Statement:
 
-I will to design and make a ———— for a client who is ———. The ——– will about ———— and is constructed using the software ———. It will take  ———- to make and will be evaluated according to the criteria ———.
+I will design and make a text-based horror game for a client who is a local game shop owner who is looking to revive his passion for old-school text-based games. The game will be about a protagonist who gets lost in the woods and needs help finding his way back hom and is constructed using the software pycharm. It will take three weeks to make and will be evaluated according to the criteria ———.
 
 ## Success Criteria
 
+1. The game has to be entirely text-based.
+2. The game must record the time played.
+3. The game must record the player name and score.
 
 # Criteria B: Design
 
