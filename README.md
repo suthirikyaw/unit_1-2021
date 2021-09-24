@@ -35,6 +35,8 @@ I will design and make a text-based horror game for a client who is a local game
 ## System Diagram
 ![](Diagram.png)
 
+Figure 1. System Diagram for proposed solution.
+
 ## Flow Diagrams
 
 ## Record of Tasks
