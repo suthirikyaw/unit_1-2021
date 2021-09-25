@@ -19,7 +19,7 @@ Apart for this requirements, the owner is open to any type of game, topic or gen
 
 Design Statement:
 
-I will design and make a text-based horror game for a client who is a local game shop owner who is looking to revive his passion for old-school text-based games. The game will be about a protagonist who gets lost in the woods and needs help finding his way back hom and is constructed using the software pycharm. It will take three weeks to make and will be evaluated according to the criteria ———.
+I will design and make a text-based survival game for a client who is a local game shop owner who is looking to revive his passion for old-school text-based games. The game will be about a the player getting communication with a man stranded on a mysterious island via a radio and needs help finding his way back home and is constructed using the software pycharm. It will take three weeks to make and will be evaluated according to the criteria that it is entirely text-based, the total game time is recorded, the player's name and score is recorded, any images or boxes surrounding the text be displayed cleanly, the score progression is accurate and constant and lastly that the game displays the player's name, time, score and rank in an accurate and clean manner. 
 
 ## Success Criteria
 
@@ -43,5 +43,5 @@ Figure 1. System Diagram for proposed solution.
 | Task No | Planned Action | Planned Outcome | Time estimate | Target completion date | Criterion |
 |---------|----------------|-----------------|---------------|------------------------|-----------|
 |    1     |     Coming up with an idea for a text-based game           |     Have an idea that's simple yet fun to execute            |  2 days (weekend)             |   Monday 20th                     |     A     |
-|         |                |                 |               |                        |           |
+|    2     |      Drawing rough flowchart of the overall story          |       Have an overall idea of how the story's going to finish and how the code will look         |      2 days         |        Monday 27th                |      A     |
 |         |                |                 |               |                        |           |
