@@ -55,3 +55,4 @@ The database in the game has tot be protected so that the personal data is not e
 | 3       | Coding the start introduction and instruction                 | Make an entertaining yet understandable instruction manual                         | 1 day            | Saturday 26th          | B         |
 | 4       | Create an encryption function for the user data               | A function tested that uses the casesar cypher                                     |                  | October 6th            | C         |
 | 5       | Integrate the encryption with the database save/load function | The database is encrypted and can be read/write                                    |                  |                        | C         |
+| 6       | Test the encoder when saving the data                         | Information on the database is encoded                                             |                  |                        | C         |
