@@ -40,9 +40,10 @@ Figure 1. System Diagram for proposed solution.
 ## Flow Diagrams
 
 ## Record of Tasks
-| Task No | Planned Action                                  | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
-|---------|-------------------------------------------------|------------------------------------------------------------------------------------|------------------|------------------------|-----------|
-| 1       | Coming up with an idea for a text-based game    | Have an idea that's simple yet fun to execute                                      | 2 days (weekend) | Monday 20th            | A         |
-| 2       | Drawing rough flowchart of the overall story    | Have an overall idea of how the story's going to finish and how the code will look | 2 days           | Monday 27th            | A         |
-| 3       | Coding the start introduction and instruction   | Make an entertaining yet understandable instruction manual                         | 1 day            | Saturday 26th          | B         |
-| 4       | Create an encryption function for the user data | A function tested that uses the casesar cypher                                     |                  | October 6th            | C         |
+| Task No | Planned Action                                                | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
+|---------|---------------------------------------------------------------|------------------------------------------------------------------------------------|------------------|------------------------|-----------|
+| 1       | Coming up with an idea for a text-based game                  | Have an idea that's simple yet fun to execute                                      | 2 days (weekend) | Monday 20th            | A         |
+| 2       | Drawing rough flowchart of the overall story                  | Have an overall idea of how the story's going to finish and how the code will look | 2 days           | Monday 27th            | A         |
+| 3       | Coding the start introduction and instruction                 | Make an entertaining yet understandable instruction manual                         | 1 day            | Saturday 26th          | B         |
+| 4       | Create an encryption function for the user data               | A function tested that uses the casesar cypher                                     |                  | October 6th            | C         |
+| 5       | Integrate the encryption with the database save/load function | The database is encrypted and can be read/write                                    |                  |                        | C         |
