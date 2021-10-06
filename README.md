@@ -43,6 +43,8 @@ I will design and make a text-based survival game for a client who is a local ga
 
 The database in the game has tot be protected so that the personal data is not exposed. To solve this requirement I am using the Caesar cypher.
 
+![](caesar_encoder.png)
+
 **Figure 2** shows the floow diagram for this function.
 
 ## Record of Tasks
