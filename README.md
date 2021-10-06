@@ -35,7 +35,7 @@ I will design and make a text-based survival game for a client who is a local ga
 ## System Diagram
 ![](Diagram.png)
 
-**Figure 1** System Diagram for proposed solution.
+**Figure 1** shows the System Diagram for proposed solution.
 
 ## Flow Diagrams
 
@@ -45,7 +45,7 @@ The database in the game has tot be protected so that the personal data is not e
 
 ![](caesar_encoder.png)
 
-**Figure 2** shows the floow diagram for this function.
+**Figure 2** shows the flow diagram for this function.
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
