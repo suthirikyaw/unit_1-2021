@@ -35,9 +35,14 @@ I will design and make a text-based survival game for a client who is a local ga
 ## System Diagram
 ![](Diagram.png)
 
-Figure 1. System Diagram for proposed solution.
+**Figure 1** System Diagram for proposed solution.
 
 ## Flow Diagrams
+
+### Caesar Cypher
+
+The database in the game has tot be protected so that the personal data is not exposed. To solve this requirement I am using the Caesar cypher.
+**Figure 2** shows the floow diagram for this function.
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
