@@ -37,6 +37,10 @@ I will design and make a text-based survival game for a client who is a local ga
 
 **Figure 1** shows the System Diagram for proposed solution.
 
+![](scoring_system.png)
+
+**Figure 2** shows the score progression system that the game will have.
+
 ## Flow Diagrams
 
 ### Caesar Cypher
@@ -45,7 +49,7 @@ The database in the game has tot be protected so that the personal data is not e
 
 ![](caesar_encoder.png)
 
-**Figure 2** shows the flow diagram for this function.
+**Figure 3** shows the flow diagram for this function.
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
