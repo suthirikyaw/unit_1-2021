@@ -37,7 +37,7 @@ I will design and make a text-based survival game for a client who is a local ga
 
 **Figure 1** shows the System Diagram for proposed solution.
 
-
+![](scoring_system.png)
 
 **Figure 2** shows the score progression system that the game will have.
 
