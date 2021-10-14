@@ -43,13 +43,18 @@ I will design and make a text-based survival game for a client who is a local ga
 
 ## Flow Diagrams
 
+### Game map
+![](game_plot.png)
+
+**Figure 3** shows the map of the plot of the game.
+
 ### Caesar Cypher
 
 The database in the game has tot be protected so that the personal data is not exposed. To solve this requirement I am using the Caesar cypher.
 
 ![](caesar_encoder.png)
 
-**Figure 3** shows the flow diagram for this function.
+**Figure 4** shows the flow diagram for this function.
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
