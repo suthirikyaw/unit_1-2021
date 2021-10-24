@@ -21,6 +21,10 @@ Design Statement:
 
 I will design and make a text-based survival game for a client who is a local game shop owner who is looking to revive his passion for old-school text-based games. The game will be about a the player getting communication with a man stranded on a mysterious island via a radio and needs help finding his way back home and is constructed using the software pycharm. It will take three weeks to make and will be evaluated according to the criteria that it is entirely text-based, the total game time is recorded, the player's name and score is recorded, any images or boxes surrounding the text be displayed cleanly, the score progression is accurate and constant and lastly that the game displays the player's name, time, score and rank in an accurate and clean manner. 
 
+Personal Relevance:
+
+The reason I have chosen to make a text-based game of a survival/dramatic game is because of inspiration from real text-based games like LIFELINE where the player has to communicate with a character that's stranded on another planet and needs help getting back home. My game is similar in the sense that the player is also helping the character get back from but from a mysterious island that they ended up in when they had a boating accident. I wanted to do a horror concept but upon planning and brainstorming I settled for no horror aspect in the game as I did not know how to make a successfully scary game. This survival game seems much more exciting which is what the end product is. 
+
 ## Success Criteria
 
 1. The game has to be entirely text-based.
