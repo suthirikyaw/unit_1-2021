@@ -78,3 +78,4 @@ The database in the game has to be protected so that the personal data is not ex
 | 6       | Test the encoder when saving the data                         | Information on the database is encoded                                             |                  |                        | C         |
 | 7       | Adding the score progression model                            | Have a score progression plan for the game                                         | 1 day            | October 7th            | B         |
 | 8       | Adding flowchart function for validation                      | Have a flowchart for validation in repos                                           | 1 day            | October 8th            | B         |
+| 9       | Make a new score progression model                            | Have a simpler score progression model                                             |                  | October 10th           | B         |
