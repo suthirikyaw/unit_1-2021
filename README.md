@@ -41,9 +41,9 @@ The reason I have chosen to make a text-based game of a survival/dramatic game i
 
 **Figure 1** shows the System Diagram for proposed solution.
 
-![](scoring_system.png)
+![](newScore.png)
 
-**Figure 2** shows the score progression system that the game will have.
+**Figure 2** shows the score progression system that the game will have (updated).
 
 ## Flow Diagrams
 
