@@ -66,6 +66,12 @@ The database in the game has to be protected so that the personal data is not ex
 
 **Figure 5** shows the flow diagram for this function.
 
+### Skippable Instructions with validation
+
+![](instruction.png)
+
+**Figure 6** shows the flow diagram for a skippable tutorial that only takes valid inputs.
+
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
