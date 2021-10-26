@@ -101,3 +101,4 @@ The database in the game has to be protected so that the personal data is not ex
 | 12      | Test the tutorial                                             | Have a tutorial at the start that is skippable and clear                           |                  | October 12th           | B         |
 | 13      | Code game introduction                                        | Have a functional game introduction                                                |                  | October 16th           | B         |
 | 14      | Coding the shortest ending of the game                        | Have the shortest ending functional and ready                                      |                  | October 20th           | B         |
+| 15      | Drawing a flowchart to get the current date                   | Have a system to display current date                                              |                  | October 21st           | A         |
