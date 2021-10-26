@@ -90,6 +90,10 @@ The database in the game has to be protected so that the personal data is not ex
 
 **Figure 9** shows the flow diagram for function that displays all previous players after decoding it. 
 
+### Date function to only get the number
+
+![](date.png)
+
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|------------------------------------------------------------------------------------|------------------|------------------------|-----------|
