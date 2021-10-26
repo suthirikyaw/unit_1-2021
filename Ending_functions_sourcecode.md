@@ -3,7 +3,7 @@ def ending(score, time):
     shift = 3
     name = input("Please enter your username to record your score. \n"
                  ">> ")
-
+    #caesars_cypher to encode the username
     encoded_name = ''
     for i in range(len(name)):
         letter = name[i]
@@ -12,13 +12,14 @@ def ending(score, time):
         if (shifted_code > 122 and letter.islower()) or (shifted_code > 90 and letter.isupper()):
             shifted_code -= 26
         encoded_name += chr(shifted_code)
-
+    #adding the encoded data into database
     with open("database.txt", "a") as files:
         line = f"{encoded_name}, {score}, {time} \n"
         files.write(line)
 
 def find(name):
     shift = 3
+    #encoding the name to match the data in the database
     encoded_name = ''
     for i in range(len(name)):
         letter = name[i]
@@ -27,7 +28,7 @@ def find(name):
         if (shifted_code > 122 and letter.islower()) or (shifted_code > 90 and letter.isupper()):
             shifted_code -= 26
         encoded_name += chr(shifted_code)
-
+    #finding the player in the database
     exist = False
     with open("database.txt", "r") as files:
         for player in files.readlines():
@@ -49,6 +50,7 @@ def display():
             score = score_stored
             time = time_stored
             shift = 3
+            #decoding the names in the database to make it readable
             decoded_name = ''
             for i in range(len(name)):
                 letter = name[i]
