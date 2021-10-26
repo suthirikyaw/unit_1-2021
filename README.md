@@ -72,6 +72,11 @@ The database in the game has to be protected so that the personal data is not ex
 
 **Figure 6** shows the flow diagram for a skippable tutorial that only takes valid inputs.
 
+### Ending 
+
+  ![](ending.png)
+  
+  **Figure 7** shows the flow diagram for taking the username of the player and encoding the data before adding it to a text database.
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
