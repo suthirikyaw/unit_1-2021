@@ -82,7 +82,7 @@ The database in the game has to be protected so that the personal data is not ex
 
 ![](find.png)
 
-**Figure 8** shows the flow diagram for finding previous players and displaying their scores and time.
+**Figure 8** shows the flow diagram for finding previous players, decoding it and displaying their scores and time.
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
