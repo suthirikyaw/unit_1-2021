@@ -117,3 +117,4 @@ https://drive.google.com/file/d/1GGYZwV6vwYYPzgu2H4KpW4oGiWJnLn9X/view?usp=shari
 | 14      | Coding the shortest ending of the game                        | Have the shortest ending functional and ready                                      |                  | October 20th           | B         |
 | 15      | Drawing a flowchart to get the current date                   | Have a system to display current date                                              |                  | October 21st           | A         |
 | 16      | Coding the date function                                      | Have a functional date function                                                    |                  | Ocotber 22nd           | B         |
+| 17      | Implement and test ending with encoder                        | Have a functional ending system                                                    |                  | October 24th           | B         |
