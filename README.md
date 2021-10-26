@@ -108,3 +108,4 @@ The database in the game has to be protected so that the personal data is not ex
 | 13      | Code game introduction                                        | Have a functional game introduction                                                |                  | October 16th           | B         |
 | 14      | Coding the shortest ending of the game                        | Have the shortest ending functional and ready                                      |                  | October 20th           | B         |
 | 15      | Drawing a flowchart to get the current date                   | Have a system to display current date                                              |                  | October 21st           | A         |
+|         | Coding the date function                                      | Have a functional date function                                                    |                  | Ocotber 22nd           | B         |
