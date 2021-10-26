@@ -1,4 +1,5 @@
 ```.py
+#Name of file is Ending.py
 def ending(score, time):
     shift = 3
     name = input("Please enter your username to record your score. \n"
