@@ -94,6 +94,10 @@ The database in the game has to be protected so that the personal data is not ex
 
 ![](date.png)
 
+# Testing validation functions
+
+https://drive.google.com/file/d/1GGYZwV6vwYYPzgu2H4KpW4oGiWJnLn9X/view?usp=sharing
+
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|------------------------------------------------------------------------------------|------------------|------------------------|-----------|
