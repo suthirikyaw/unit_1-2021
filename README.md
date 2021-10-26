@@ -77,6 +77,12 @@ The database in the game has to be protected so that the personal data is not ex
   ![](ending.png)
   
   **Figure 7** shows the flow diagram for taking the username of the player and encoding the data before adding it to a text database.
+  
+### Finding player
+
+![](find.png)
+
+**Figure 8** shows the flow diagram for finding previous players and displaying their scores and time.
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
