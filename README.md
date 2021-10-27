@@ -94,9 +94,10 @@ The database in the game has to be protected so that the personal data is not ex
 
 ![](date.png)
 
-# Testing validation functions
+# Testing 
 
 https://drive.google.com/file/d/1GGYZwV6vwYYPzgu2H4KpW4oGiWJnLn9X/view?usp=sharing
+**Testing Validation functions that make the tutorial skippable and only takes in valid inputs**
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
@@ -118,3 +119,4 @@ https://drive.google.com/file/d/1GGYZwV6vwYYPzgu2H4KpW4oGiWJnLn9X/view?usp=shari
 | 15      | Drawing a flowchart to get the current date                   | Have a system to display current date                                              |                  | October 21st           | A         |
 | 16      | Coding the date function                                      | Have a functional date function                                                    |                  | Ocotber 22nd           | B         |
 | 17      | Implement and test ending with encoder                        | Have a functional ending system                                                    |                  | October 24th           | B         |
+| 18      | Updating and cleaning up repository                           | Have an updated and understandable repository                                      |                  | Ocotber 26th           |           |
