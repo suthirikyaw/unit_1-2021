@@ -99,6 +99,9 @@ The database in the game has to be protected so that the personal data is not ex
 https://drive.google.com/file/d/1GGYZwV6vwYYPzgu2H4KpW4oGiWJnLn9X/view?usp=sharing
 **Integration Testing Validation functions that make the tutorial skippable and only takes in valid inputs**
 
+https://drive.google.com/file/d/1GGYZwV6vwYYPzgu2H4KpW4oGiWJnLn9X/view?usp=sharing
+**Performance Testing of starting the game**
+
 **Unit Testing in file in repository**
 
 ## Record of Tasks
