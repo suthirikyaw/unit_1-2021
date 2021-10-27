@@ -94,10 +94,12 @@ The database in the game has to be protected so that the personal data is not ex
 
 ![](date.png)
 
-# Integration Testing 
+# Testing 
 
 https://drive.google.com/file/d/1GGYZwV6vwYYPzgu2H4KpW4oGiWJnLn9X/view?usp=sharing
-**Testing Validation functions that make the tutorial skippable and only takes in valid inputs**
+**Integration Testing Validation functions that make the tutorial skippable and only takes in valid inputs**
+
+**Unit Testing in file in repository**
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                    | Time estimate    | Target completion date | Criterion |
